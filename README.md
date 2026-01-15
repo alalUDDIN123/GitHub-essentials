@@ -44,20 +44,6 @@ After stepping away for a while, this repository marks my **comeback to consiste
 - GitHub CLI (gh)
 - PowerShell (Windows)
 
----
-
-## 📂 Repository Structure
-
-```
-
-Github-essentials/
-├── README.md
-├── notes/
-│   ├── commands/
-│   └── examples/
-```
-
-*(Structure will evolve as learning continues)*
 
 ---
 
