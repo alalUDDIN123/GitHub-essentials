@@ -1,6 +1,6 @@
 
 
-## 📘 README.md — *github-essentials
+## 📘 README.md — Github-essentials
 
 ```md
 # GitHub Essentials 🚀
@@ -50,12 +50,11 @@ After stepping away for a while, this repository marks my **comeback to consiste
 
 ```
 
-* github-essentials/
- ├── README.md
- ├── notes/
- ├── commands/
- └── examples/
-
+Github-essentials/
+├── README.md
+├── notes/
+│   ├── commands/
+│   └── examples/
 ```
 
 *(Structure will evolve as learning continues)*
