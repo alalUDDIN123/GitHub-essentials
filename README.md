@@ -91,5 +91,3 @@ This project is for learning and personal growth.
 Feel free to explore and adapt ideas for your own practice.
 
 ````
-
----
