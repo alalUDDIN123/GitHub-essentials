@@ -281,11 +281,11 @@ gh ssh-key add ~/.ssh/id_ed25519.pub
 
 ## 🔚 Correct Order (IMPORTANT)
 
-1️⃣ Install Git
-2️⃣ Create GitHub account
-3️⃣ Install GitHub CLI (`gh`)
-4️⃣ `gh auth login`
-5️⃣ Connect VS Code
-6️⃣ Start pushing code 🚀
+- 1️⃣ Install Git
+- 2️⃣ Create GitHub account
+- 3️⃣ Install GitHub CLI (`gh`)
+- 4️⃣ `gh auth login`
+- 5️⃣ Connect VS Code
+- 6️⃣ Start pushing code 🚀
 
 ---
